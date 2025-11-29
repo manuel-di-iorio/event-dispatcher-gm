@@ -1,3 +1,6 @@
+/**
+ * EventDispatcher
+ */
 function EventDispatcher() constructor {
     _listeners = {};
 

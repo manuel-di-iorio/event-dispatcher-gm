@@ -21,6 +21,7 @@
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"EventDispatcher","path":"scripts/EventDispatcher/EventDispatcher.yy",},},
+    {"id":{"name":"EventDispatcherFast","path":"scripts/EventDispatcherFast/EventDispatcherFast.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
